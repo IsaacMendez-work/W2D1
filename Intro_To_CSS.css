@@ -1,0 +1,12 @@
+#purple {
+    color: purple;
+}
+.italics {
+    font-style: italic;
+}
+#hover-blue:hover {
+    color: blue
+}
+a:active {
+    font-size: larger;
+}
